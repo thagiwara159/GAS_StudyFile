@@ -1,0 +1,3 @@
+function GASおじと勉強(){
+    
+}
