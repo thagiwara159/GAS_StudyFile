@@ -18,5 +18,6 @@ function GASおじと勉強(){
 
         return ss;
 
-    }catch(e){'エラー' + e.message}
+    }catch(e){'エラー' + e.message 
+    }
 }
